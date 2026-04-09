@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\RPG 2\bin\Debug\net10.0\RPG 2.exe
+C:\Users\dev\source\repos\RPG 2\bin\Debug\net10.0\RPG 2.deps.json
+C:\Users\dev\source\repos\RPG 2\bin\Debug\net10.0\RPG 2.runtimeconfig.json
+C:\Users\dev\source\repos\RPG 2\bin\Debug\net10.0\RPG 2.dll
+C:\Users\dev\source\repos\RPG 2\bin\Debug\net10.0\RPG 2.pdb
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.AssemblyInfo.cs
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.dll
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\refint\RPG 2.dll
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.pdb
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\RPG 2.genruntimeconfig.cache
+C:\Users\dev\source\repos\RPG 2\obj\Debug\net10.0\ref\RPG 2.dll

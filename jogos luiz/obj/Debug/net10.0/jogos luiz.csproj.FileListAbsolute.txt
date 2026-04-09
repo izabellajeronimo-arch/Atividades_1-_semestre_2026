@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\jogos luiz\bin\Debug\net10.0\jogos luiz.exe
+C:\Users\dev\source\repos\jogos luiz\bin\Debug\net10.0\jogos luiz.deps.json
+C:\Users\dev\source\repos\jogos luiz\bin\Debug\net10.0\jogos luiz.runtimeconfig.json
+C:\Users\dev\source\repos\jogos luiz\bin\Debug\net10.0\jogos luiz.dll
+C:\Users\dev\source\repos\jogos luiz\bin\Debug\net10.0\jogos luiz.pdb
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.AssemblyInfo.cs
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.dll
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\refint\jogos luiz.dll
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.pdb
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\jogos luiz.genruntimeconfig.cache
+C:\Users\dev\source\repos\jogos luiz\obj\Debug\net10.0\ref\jogos luiz.dll

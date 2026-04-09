@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\numeros primos\bin\Debug\net10.0\numeros primos.exe
+C:\Users\dev\source\repos\numeros primos\bin\Debug\net10.0\numeros primos.deps.json
+C:\Users\dev\source\repos\numeros primos\bin\Debug\net10.0\numeros primos.runtimeconfig.json
+C:\Users\dev\source\repos\numeros primos\bin\Debug\net10.0\numeros primos.dll
+C:\Users\dev\source\repos\numeros primos\bin\Debug\net10.0\numeros primos.pdb
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.AssemblyInfo.cs
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.dll
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\refint\numeros primos.dll
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.pdb
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\numeros primos.genruntimeconfig.cache
+C:\Users\dev\source\repos\numeros primos\obj\Debug\net10.0\ref\numeros primos.dll

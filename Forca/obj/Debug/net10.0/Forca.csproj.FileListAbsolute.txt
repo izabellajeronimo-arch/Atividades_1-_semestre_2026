@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\Forca\bin\Debug\net10.0\Forca.exe
+C:\Users\dev\source\repos\Forca\bin\Debug\net10.0\Forca.deps.json
+C:\Users\dev\source\repos\Forca\bin\Debug\net10.0\Forca.runtimeconfig.json
+C:\Users\dev\source\repos\Forca\bin\Debug\net10.0\Forca.dll
+C:\Users\dev\source\repos\Forca\bin\Debug\net10.0\Forca.pdb
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.AssemblyInfo.cs
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.dll
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\refint\Forca.dll
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.pdb
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\Forca.genruntimeconfig.cache
+C:\Users\dev\source\repos\Forca\obj\Debug\net10.0\ref\Forca.dll

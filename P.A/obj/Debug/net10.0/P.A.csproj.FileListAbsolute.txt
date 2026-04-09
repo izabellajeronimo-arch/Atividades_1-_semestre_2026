@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\P.A\bin\Debug\net10.0\P.A.exe
+C:\Users\dev\source\repos\P.A\bin\Debug\net10.0\P.A.deps.json
+C:\Users\dev\source\repos\P.A\bin\Debug\net10.0\P.A.runtimeconfig.json
+C:\Users\dev\source\repos\P.A\bin\Debug\net10.0\P.A.dll
+C:\Users\dev\source\repos\P.A\bin\Debug\net10.0\P.A.pdb
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.AssemblyInfo.cs
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.dll
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\refint\P.A.dll
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.pdb
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\P.A.genruntimeconfig.cache
+C:\Users\dev\source\repos\P.A\obj\Debug\net10.0\ref\P.A.dll

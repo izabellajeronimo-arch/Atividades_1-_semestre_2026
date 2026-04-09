@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\conversor de moedas\bin\Debug\net10.0\conversor de moedas.exe
+C:\Users\dev\source\repos\conversor de moedas\bin\Debug\net10.0\conversor de moedas.deps.json
+C:\Users\dev\source\repos\conversor de moedas\bin\Debug\net10.0\conversor de moedas.runtimeconfig.json
+C:\Users\dev\source\repos\conversor de moedas\bin\Debug\net10.0\conversor de moedas.dll
+C:\Users\dev\source\repos\conversor de moedas\bin\Debug\net10.0\conversor de moedas.pdb
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.AssemblyInfo.cs
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.dll
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\refint\conversor de moedas.dll
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.pdb
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\conversor de moedas.genruntimeconfig.cache
+C:\Users\dev\source\repos\conversor de moedas\obj\Debug\net10.0\ref\conversor de moedas.dll
