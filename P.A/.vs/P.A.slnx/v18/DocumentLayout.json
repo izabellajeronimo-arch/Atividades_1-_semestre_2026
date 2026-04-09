@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dev\\source\\repos\\P.A\\",
+  "WorkspaceRootPath": "C:\\Users\\dev\\Documents\\Atividades_1-_semestre_2026\\P.A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42F0EC09-6496-4D9C-9990-9B0AA326B512}|P.A.csproj|c:\\users\\dev\\source\\repos\\p.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F0EC09-6496-4D9C-9990-9B0AA326B512}|P.A.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{723797B6-AF95-19FB-B1CF-B4FCCB997DA5}|P.A.csproj|c:\\users\\dev\\documents\\atividades_1-_semestre_2026\\p.a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723797B6-AF95-19FB-B1CF-B4FCCB997DA5}|P.A.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dev\\source\\repos\\P.A\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Documents\\Atividades_1-_semestre_2026\\P.A\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dev\\source\\repos\\P.A\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Documents\\Atividades_1-_semestre_2026\\P.A\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T13:40:02.078Z",
               "EditorCaption": ""

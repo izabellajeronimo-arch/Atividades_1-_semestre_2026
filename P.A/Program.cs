@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Izabella Neves Pivaro Jeronimo
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 //Variáveis
 int salto, termos, resultado = 0;

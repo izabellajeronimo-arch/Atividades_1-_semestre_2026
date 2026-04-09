@@ -1,15 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Izabela Neves");
+Console.WriteLine("Izabella Neves Pivaro Jeronimo");
 Console.OutputEncoding = System.Text.Encoding.UTF8;
-int termos, n1 = 0, n2 = 1, n3 = 0;
-Console.Write("Quantos termos?:  ");
+//Variáveis
+int termos, t1 = 0, t2 = 2, t3 = 4;
+Console.WriteLine("Digite o nº de Termos: ");
 int.TryParse(Console.ReadLine()!, out termos);
-Console.Write($"{n1},{n2},");
+//Console.WriteLine("Digite o nº do Salto: ");
+//int.TryParse(Console.ReadLine()!, out salto);
+Console.WriteLine($"{t1}👉🏼{t2}👉🏼");
 for (int i = 1; i <= termos; i++)
 {
-    n3 = n1 + n2;
-    n1 = n2;
-    n2 = n3;
-
-    Console.Write($"{n3}");
+    t3 = t1 + t2;
+    t1 = t2;
+    t2 = t3;
+    Console.Write($"{t3}👉🏼");
 }
